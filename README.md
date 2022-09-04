@@ -1,6 +1,5 @@
 - Hi, I’m @LIAMBEANS
-- I’m interested in Friday Night Funkin
-- I’m currently learning Lua, Python
+- I’m currently learning Lua, Python, Java
 - I’m looking to collaborate on Modding, that includes FNF Mods (I can chart and do voice acting) and the occasional Roblox games and Taiko Music.
 - How to reach me: liamsuen@gmail.com or DM me on discord (AntiLiam#7910)
 
